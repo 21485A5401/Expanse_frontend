@@ -1,0 +1,22 @@
+.popup_Dialog {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+
+}
+
+.popup_Dialog h1 {
+    margin: 0px;
+    
+}
+
+.add_Expanse_button {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+h1{
+    color: #2a4e96;
+}

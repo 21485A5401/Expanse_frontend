@@ -1,0 +1,7 @@
+.topnav_header{
+    background-color: rgb(159, 195, 247, 50%);;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+}
