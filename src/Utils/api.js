@@ -2,7 +2,8 @@ import axios from 'axios';
 
 const Token = localStorage.getItem('token');
 
-const api = 'http://localhost:4000/';
+// const api = 'http://localhost:4000/';
+const api = 'https://expanses-backend.onrender.com/';
 
 const createAxiosInstance = (token) =>{
     return axios.create({
